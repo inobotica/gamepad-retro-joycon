@@ -1,4 +1,4 @@
-# Gamepad bluetooth con ESP32 (XIAO EPS32-C3)
+# Gamepad bluetooth con ESP32 (XIAO ESP32-C3)
 En este repositorio encuentras los archivos necesarios para construir un gamepad bluetooth retro basado en el microcontrolador ESP32, especificamente la versión de seeed studio [XIAO ESP32C3](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/).
 
 En este [vídeo](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/) encontrarás el paso a paso de la fabricación del gamepad.
